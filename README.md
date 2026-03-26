@@ -33,7 +33,7 @@ At some point I'll add support for artist/album/song instead of just album/song
 
 
 
-Don't point this at a huge mess of music folders - if you have a ton of music it'd be better to place all the mp3 files together into an artist folder. It's a restriction of how the playheads are implemented for each album. It'll be less bad once I implement artist/album/song, artist will manage which albums get playheads and will destroy playheads that have been abandoned past a timeout.
+Don't point this at a huge mess of music folders - if you have a ton of music it'd be better to place all the mp3 files together into artist folders than to have a ton of floating album folders. It's a restriction of how the playheads are implemented for each album. It'll be less bad once I implement artist/album/song, artist will manage which albums get playheads and will destroy playheads that have been abandoned past a timeout.
 
 Useful documentation
 
