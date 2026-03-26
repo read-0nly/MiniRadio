@@ -28,3 +28,5 @@ Useful documentation
 https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-10.0
 
 http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm (I love you thank you so much Predrag Supurovic you will probably never see this because the article is almost 30 years old but you have taught me so much in that one document)
+
+https://requestly.com/blog/chunked-encoding/
